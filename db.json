@@ -8,26 +8,4 @@
           time: '12:00', 
           petwAllowed: true,
           organizer: 'Kat laydee'
-        },
-        {
-          id: 5928102,
-          category: 'animal2 welfare',
-          title: 'Lion Adoption2',
-          description: 'Find your new feline friend', 
-          location: 'Meow Town',
-          date: 'January 28, 2022',
-          time: '12:00', 
-          petwAllowed: true,
-          organizer: 'Kat laydee'
-        },
-        {
-          id: 5928103,
-          category: 'animal 3welfare',
-          title: 'dog Adoption3',
-          description: 'Find your new feline friend', 
-          location: 'Meow Town',
-          date: 'January 28, 2022',
-          time: '12:00', 
-          petwAllowed: true,
-          organizer: 'Kat laydee'
-        },   
+        }
